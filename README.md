@@ -1,17 +1,25 @@
-# Testing-Portal-US_Academy
-<hr>
-![Sample Image](./US%20Academy.png)
-<hr>
+# Testing Portal Web App - US Academy
 
-Hey! I am udhav sharma student at GZSCCET(2021-25), I have created this project this project by working as an Intern of Web developement at Potencia Academy. THis is a sample deployment of all about what was created by me. I had created this web app solely on behalf of me. 
+---
 
-## Tech Stack used
+![US Academy](./US%20Academy.png)
 
-This web app is created in MERN stack with authentication using firebase, Currently it's deployed as Frontend on Vercel.com and backend on Render.com and database deployed on MongoDB atlas cloud.
+---
 
-## Usage
+Greetings! I am Udhav Sharma, a dedicated student at GZSCCET (2021-25). I take immense pride in presenting the Testing Portal Web App, a remarkable project born during my tenure as a Web Development Intern at Potencia Academy. This portal stands as a testament to my skills, creativity, and unwavering commitment to excellence.
 
-I have provided the link to Frontend of the project you have to open the link and Since it's deployed on Render.com for free tier services it could take delay of 45-60 seconds on first request after 15 mins of inactivity. Once the app opens you have provide the correct details and you will recieve OTP on given Mobile, fill it up correctly, and you are all set to start preparing for sample tests provided.
+## Technological Marvel
 
-## Link-
-* https://frontend-testing-portal-us.vercel.app/
+Embodied in the MERN stack, this web application is a fusion of cutting-edge technologies. The authentication is fortified by the robust Firebase framework. As you navigate through the portal, its frontend gracefully resides on the illustrious Vercel.com, while the backend, a true work of art, finds its home on Render.com. The database, elegantly sprawls across the MongoDB Atlas cloud.
+
+## Seamless Experience
+
+Embark on a journey of discovery and knowledge as you interact with this masterpiece. By following the link to the frontend provided below, you shall be ushered into a realm of learning and assessment. Please note, due to the eloquent frugality of our choices, the initial request might greet you with a brief pause lasting 45-60 seconds after 15 minutes of inactivity. A small price to pay for a transcendent experience. 
+
+Once the portal graces your screen, diligently furnish the requisite details. Awaiting you is an OTP, a key to unlocking the treasures of preparation through sample tests that await your conquering spirit.
+
+## Let the Exploration Begin
+
+[Launch the Testing Portal Web App](https://frontend-testing-portal-us.vercel.app/)
+
+A world of possibilities, challenges, and growth beckons. Embrace it wholeheartedly, for you are on the threshold of greatness.
