@@ -1,6 +1,6 @@
 # Testing-Portal-US_Academy
 <hr>
-![Sample Image](./US Academy.png)
+![Sample Image](./US%20Academy.png)
 <hr>
 
 Hey! I am udhav sharma student at GZSCCET(2021-25), I have created this project this project by working as an Intern of Web developement at Potencia Academy. THis is a sample deployment of all about what was created by me. I had created this web app solely on behalf of me. 
